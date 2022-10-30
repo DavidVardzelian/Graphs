@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{2FB62095-27FE-4AAD-B9F9-2AB13AD707B8}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GraphsCheckAlgorithm.cs">
+    <Files>
+      <File FileName="Program.cs" Line="8" Column="40" />
+      <File FileName="Models/GraphModel.cs" Line="10" Column="46" />
+      <File FileName="GraphsCheckAlgorithm.cs" Line="76" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Graphs" expanded="True">
+            <Node name="Graphs" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="GraphsCheckAlgorithm.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../GraphsCheckAlgorithm.cs" line="21" column="53" endLine="21" endColumn="95" offsetX="-1" offsetY="-1" expression="graphsDictionary" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/davidvardzelian/Projects/Graphs/GraphsCheckAlgorithm.cs" relfile="GraphsCheckAlgorithm.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Graphs PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/davidvardzelian/Projects/Graphs/bin/Debug/net6.0/Graphs
+/Users/davidvardzelian/Projects/Graphs/bin/Debug/net6.0/Graphs.deps.json
+/Users/davidvardzelian/Projects/Graphs/bin/Debug/net6.0/Graphs.runtimeconfig.json
+/Users/davidvardzelian/Projects/Graphs/bin/Debug/net6.0/Graphs.dll
+/Users/davidvardzelian/Projects/Graphs/bin/Debug/net6.0/Graphs.pdb
+/Users/davidvardzelian/Projects/Graphs/obj/Debug/net6.0/Graphs.csproj.AssemblyReference.cache
+/Users/davidvardzelian/Projects/Graphs/obj/Debug/net6.0/Graphs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidvardzelian/Projects/Graphs/obj/Debug/net6.0/Graphs.AssemblyInfoInputs.cache
+/Users/davidvardzelian/Projects/Graphs/obj/Debug/net6.0/Graphs.AssemblyInfo.cs
+/Users/davidvardzelian/Projects/Graphs/obj/Debug/net6.0/Graphs.csproj.CoreCompileInputs.cache
+/Users/davidvardzelian/Projects/Graphs/obj/Debug/net6.0/Graphs.dll
+/Users/davidvardzelian/Projects/Graphs/obj/Debug/net6.0/refint/Graphs.dll
+/Users/davidvardzelian/Projects/Graphs/obj/Debug/net6.0/Graphs.pdb
+/Users/davidvardzelian/Projects/Graphs/obj/Debug/net6.0/Graphs.genruntimeconfig.cache
+/Users/davidvardzelian/Projects/Graphs/obj/Debug/net6.0/ref/Graphs.dll
